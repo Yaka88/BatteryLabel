@@ -1,0 +1,8 @@
+1.安装 .net framework 2.0以上   从微软网站下载安装,  http://www.microsoft.com/downloads/details.aspx?FamilyID=333325fd-ae52-4e35-b531-508d977d32a6&DisplayLang=en
+2. 解压所有文到一个目录， 运行bl.bat
+3. 运行batterylabel.exe
+4. 产品选16-142.
+	订单的start 从40开始，count  为 27
+
+5。激光打印机连接本电脑，设置为默认
+6。切标签用美工刀
